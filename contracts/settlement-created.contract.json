@@ -1,0 +1,5 @@
+{
+  "event": "settlement.created",
+  "requiredFields": ["eventId", "merchantId", "grossAmount", "netAmount", "currency", "occurredAt"],
+  "version": 1
+}
